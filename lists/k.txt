@@ -6,7 +6,7 @@ https://archive.org/download/cCloud_20151126/cCloud.mp4
 #EXTINF:0 tvg-name="*Property of cCloudTV.ORG*" tvg-language="English" tvg-country="US" tvg-id="Property of cCloudTV.ORG" tvg-logo="http://media.comicbook.com/2015/09/baneposter2-by-sysmatic-149962.jpg" group-title="Top10",*Property of cCloudTV.ORG* (Top10) (US) (English)
 https://archive.org/download/cCloud_20151126/cCloud.mp4
 
-#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 07-14-2020 10:14:48 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 07-14-2020 10:14:48 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
+#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 07-14-2020 10:15:34 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 07-14-2020 10:15:34 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
 https://archive.org/download/cCloud_20151126/cCloud.mp4
 
 #EXTINF:0 tvg-name="*Coders needed*" tvg-language="English" tvg-country="US" tvg-id="*Coders needed*" tvg-logo="https://i.imgur.com/X4hjOLT.jpg" group-title="Top10",*Coders needed* (Top10) (US) (English)
@@ -16,7 +16,7 @@ https://archive.org/download/cCloud_20151126/cCloud.mp4|User-Agent=Mozilla%2F5.0
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTE6MzcgUE0maGFzaF92YWx1ZT01N3FZRVM2QWN3empIUkZtaWlmS2NBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F68952%2FA%26E-(HD)
 
 #EXTINF:0 tvg-name="ABC 13 RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="ABC 13 RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",ABC 13 RocketRaccoon (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr/vy1mb1cqoumz1a4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6MzEgUE0maGFzaF92YWx1ZT1Qd3A0ZDFkbi9UU0wraFR4ZkUvbzZ3PT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77073%2FABC-13
+https://nl2.streamlive.to/freeabr/vy1mb1cqoumz1a4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6NTIgUE0maGFzaF92YWx1ZT0xVDBtMFo5dERPeWZSa0ZwRXdMZDJ3PT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77073%2FABC-13
 
 #EXTINF:0 tvg-name="ABC RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="ABC RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",ABC RocketRaccoon (Entertainment) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTE6NDEgUE0maGFzaF92YWx1ZT1FZkNEdDhJR0lES1NLYUFyMk1RMUp3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F46476%2FABC-(HD)
@@ -181,7 +181,7 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6MDggUE0maGFzaF92YWx1ZT1TN3cyd3E4UUFQMzN4NzZublNjWFpRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76345%2FFox-Sports-2-(HD)-vip
 
 #EXTINF:0 tvg-name="Fox Sports 3 RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Fox Sports 3 RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Fox Sports 3 RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6MzAgUE0maGFzaF92YWx1ZT1vMDhSQ0x0a0E1Z3lCUUxvVFV1WHVBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F47799%2FLA%3A-Fox-Sports-3-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6NDkgUE0maGFzaF92YWx1ZT1ORlAyNjR2VEN1VEJIMzJFdDhRRzFBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F47799%2FLA%3A-Fox-Sports-3-(HD)
 
 #EXTINF:0 tvg-name="Freeform RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Freeform RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",Freeform RocketRaccoon (Entertainment) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6MzMgUE0maGFzaF92YWx1ZT1SdlhSa09aU1I0SWJud2s2N0krUW53PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76645%2FFreeForm-(HD)
@@ -319,7 +319,7 @@ https://nl2.streamlive.to/freeabr/fyev2yma7f3vqzm/playlist.m3u8?wmsAuthSign=c2Vy
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTI6MDEgUE0maGFzaF92YWx1ZT1JNGFDblFVUUVuaGpvT0lnRkxnWEJnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F52479%2FParamount-(HD)
 
 #EXTINF:0 tvg-name="Pop RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Pop RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",Pop RocketRaccoon (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr/pkj3rao4c76lkv2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6MzQgUE0maGFzaF92YWx1ZT1rcjVmcGhPR0Z5ZmQraVhsd0RhQk5RPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76708%2FPop
+https://nl2.streamlive.to/freeabr/pkj3rao4c76lkv2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6NTYgUE0maGFzaF92YWx1ZT1HU2dMT1ZwN3czRGh6YmwzcmVvY3dnPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76708%2FPop
 
 #EXTINF:0 tvg-name="Pop Thor" tvg-language="English" tvg-country="US" tvg-id="Pop Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Music",Pop Thor (Music) (US) (English)
 https://nl2.streamlive.to/freeabr/pkj3rao4c76lkv2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTE6MTMgUE0maGFzaF92YWx1ZT12ZDR6UWVHU2QrVm1tdjRZR2xzQ3J3PT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76708%2FPop
@@ -343,16 +343,16 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6MjYgUE0maGFzaF92YWx1ZT1LYmhHRVBIK3ZVSnBJWEd3WnMweG9nPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F47892%2FSky-Sports-Football-vip
 
 #EXTINF:0 tvg-name="Sky Sports Golf RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Sky Sports Golf RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Sky Sports Golf RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6MzIgUE0maGFzaF92YWx1ZT1Tc1ppdmdVVDZWMFBSUnNZU1RPNy9BPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77021%2FSky-Sports-Golf-UK-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6NTMgUE0maGFzaF92YWx1ZT1kQWVaNUQ0Sk1JZEc2clVRaitJaXh3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77021%2FSky-Sports-Golf-UK-(HD)
 
 #EXTINF:0 tvg-name="Sky Sports Italy Formula 1 RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Sky Sports Italy Formula 1 RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Sky Sports Italy Formula 1 RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr/voxxffxmrjwqws5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6MzYgUE0maGFzaF92YWx1ZT0rdVRoNlhBV0xya0g1YnFCOEd3VEFBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76855%2FSky-Sports-Italy-Formula-1
+https://nl2.streamlive.to/freeabr/voxxffxmrjwqws5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTQ6MDAgUE0maGFzaF92YWx1ZT1yQmhWN0RVd1ZQVFowb3ZqNm5hVmhBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76855%2FSky-Sports-Italy-Formula-1
 
 #EXTINF:0 tvg-name="Sky Sports Italy MotoGP RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Sky Sports Italy MotoGP RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Sky Sports Italy MotoGP RocketRaccoon (Sports) (US) (English)
 https://nl2.streamlive.to/freeabr/7m6fo30uhdimj6s/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6MzUgUE0maGFzaF92YWx1ZT1vVnhtVXdFRGx4K3VGbDJKVnE2OUhBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76858%2FSky-Sports-Italy-MotoGP
 
 #EXTINF:0 tvg-name="Sky Sports Italy Serie A RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Sky Sports Italy Serie A RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Sky Sports Italy Serie A RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr/z0k59cyp3y3nkk5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6MzUgUE0maGFzaF92YWx1ZT1yWXNrb0FaMTliVTQ4cGFsdTJ2UUVnPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76912%2FSky-Sports-Italy-Serie-A
+https://nl2.streamlive.to/freeabr/z0k59cyp3y3nkk5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6NTkgUE0maGFzaF92YWx1ZT1DWTJ2MWJIdUYyaEMxbktqUjVCSVlBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76912%2FSky-Sports-Italy-Serie-A
 
 #EXTINF:0 tvg-name="Sky Sports Main Event RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Sky Sports Main Event RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Sky Sports Main Event RocketRaccoon (Sports) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTI6NTMgUE0maGFzaF92YWx1ZT1yZTZsSWJFZDRLcTVVbEQvcDJZZGRRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F47893%2FSky-Sports-Main-Event-vip
@@ -442,7 +442,7 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTI6MjQgUE0maGFzaF92YWx1ZT0zUW01eG45ZzFMVmZEeldoQ1pOUnd3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F52988%2FVH1-(HD)
 
 #EXTINF:0 tvg-name="WLS 7 Chicago RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="WLS 7 Chicago RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",WLS 7 Chicago RocketRaccoon (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr/wgxkf3nnl2xv311/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6MzMgUE0maGFzaF92YWx1ZT1nR2drMTRzWG43TFlnclRudjBRMEdRPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77074%2FWLS-7-Chicago
+https://nl2.streamlive.to/freeabr/wgxkf3nnl2xv311/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6NTUgUE0maGFzaF92YWx1ZT03R3MrVUFLT0g1TzY4SWRLeUxDaTNRPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77074%2FWLS-7-Chicago
 
 #EXTINF:0 tvg-name="YES RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="YES RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",YES RocketRaccoon (Sports) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTM6MTQgUE0maGFzaF92YWx1ZT0rUmh5UXdDWXl6VlAxMHVtdFV3UFB3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76418%2FYES-(HD)
@@ -1213,16 +1213,16 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8|Referer
 http://204.107.27.137/live/27.low.stream/playlist.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="CBC News CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="CBC News CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",CBC News CaptainMarvel (News) (US) (English)
-https://1359547862.rsc.cdn77.org/ECtFGCd5iHXj2PdfAw72KA==%2C1594744556/LS-ATL-54548-8/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
+https://1359547862.rsc.cdn77.org/vy98ZoX1ev13gDJKD0T7LQ==%2C1594744659/LS-ATL-54548-8/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="CNBC America CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="CNBC America CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",CNBC America CaptainMarvel (News) (US) (English)
-https://1674331492.rsc.cdn77.org/f-jWqag-pwztujOuFdfSOQ==%2C1594743158/LS-ATL-54548-14/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
+https://1674331492.rsc.cdn77.org/heaZv8G-DPyO-KP_LXBSyQ==%2C1594743261/LS-ATL-54548-14/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="CNBC Europe CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="CNBC Europe CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",CNBC Europe CaptainMarvel (News) (US) (English)
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Fox Business Network CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="Fox Business Network CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",Fox Business Network CaptainMarvel (News) (US) (English)
-https://1329918864.rsc.cdn77.org/RQFp3dt3RXs4YUt6T8gOCQ==%2C1594740761/ls-54548-1/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
+https://1329918864.rsc.cdn77.org/L4e_RUF1n_DcgiE7IlAvTQ==%2C1594740866/ls-54548-1/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="MSNBC CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="MSNBC CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",MSNBC CaptainMarvel (News) (US) (English)
 https://1420543146.rsc.cdn77.org/Uua5YoP99ZvGw6Igml4x0w==%2C1594742504/LS-ATL-54548-10/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
